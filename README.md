@@ -45,16 +45,34 @@ two-pointers-greedy/
 
 ---
 
-## ⚙️ How to Use
-1. Clone the repository  
+## ⚙️ Installation & Run
+
+1) Clone the repository  
 git clone https://github.com/anshkunj/two-pointers-greedy.git  
 cd two-pointers-greedy  
 
-2. Open any `.py` file, read problem statement, and understand the pointer/greedy logic  
+2) Install dependencies  
+pip install -r requirements.txt  
 
-3. Solve or adapt the code for your own projects  
-   - Add diagrams  
-   - Experiment with different pointer strategies or greedy choices  
+3) Run the server  
+uvicorn main:app --reload  
+
+---
+
+## 🌐 API Documentation
+
+Swagger UI: http://127.0.0.1:8000/docs  
+
+ReDoc: http://127.0.0.1:8000/redoc  
+
+---
+
+## 🌐 Live API
+
+Base URL:  
+https://two-pointers-greedy.onrender.com  
+Docs:  
+https://two-pointers-greedy.onrender.com/docs  
 
 ---
 
