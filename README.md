@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github.com/anshkunj/two-pointers-greedy/blob/61b56fb0813af36fce8e141bde61b4f1822d39cd/1768509182619.jpg" alt="Two Pointers & Greedy Patterns" width="1200">
+</p>
+
+<h1 align="center">Two Pointers & Greedy Patterns</h1>
+<p align="center">Optimize and Solve Efficient Algorithms Using Two Pointers & Greedy Techniques 🚀</p>
+
 # 🚀 Two Pointers & Greedy Patterns
 
 A curated collection of **two pointers and greedy algorithm problems** focusing on array manipulation, interval handling, and in-place optimization. Each solution is optimized, explained with diagrams, and mapped to real-world scenarios like scheduling, merging intervals, and subarray analysis.
