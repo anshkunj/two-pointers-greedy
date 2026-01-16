@@ -33,6 +33,7 @@ two-pointers-greedy/
 ---
 
 ## 🏗️ How This Repo Works
+- logic.py contain logic of all problems  
 - Two pointers logic explained  
 - Greedy approach clearly justified step-by-step  
 - Focus on **O(n)/O(n log n) efficiency** and real-world mapping  
