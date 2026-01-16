@@ -23,11 +23,12 @@ A curated collection of **two pointers and greedy algorithm problems** focusing 
 ## 📂 Repo Structure
 
 two-pointers-greedy/  
-├── README.md                  # This file  
-├── logic.py  
-├── models.py  
-├── main.py  
-└── ... (add more two pointers & greedy problems)  
+├── main.py          # FastAPI app & routes
+├── logic.py         # Core algorithm implementations  
+├── models.py        # Pydantic request models  
+├── requirements.txt  
+├── README.md  
+└── LICENSE  
 
 ---
 
