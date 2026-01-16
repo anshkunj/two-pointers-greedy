@@ -24,20 +24,15 @@ A curated collection of **two pointers and greedy algorithm problems** focusing 
 
 two-pointers-greedy/  
 ├── README.md                  # This file  
-├── 15_3sum.py                 # Three sum problem, two pointers  
-├── 16_3sum_closest.py         # Closest sum using two pointers  
-├── 18_4sum.py                 # Four sum with sorting + pointers  
-├── 167_two_sum_II.py          # Two sum in sorted array  
-├── 345_reverse_vowels.py      # Two pointers, string manipulation  
-├── 881_boats_to_save_people.py# Greedy interval packing  
-├── 435_non_overlapping_intervals.py # Greedy interval scheduling  
+├── logic.py  
+├── models.py  
+├── main.py  
 └── ... (add more two pointers & greedy problems)  
 
 ---
 
 ## 🏗️ How This Repo Works
-- Each `.py` file contains a single problem solution  
-- Two pointers logic explained in **comments + diagrams**  
+- Two pointers logic explained  
 - Greedy approach clearly justified step-by-step  
 - Focus on **O(n)/O(n log n) efficiency** and real-world mapping  
 
@@ -80,19 +75,6 @@ Base URL:
 https://two-pointers-greedy.onrender.com  
 Docs:  
 https://two-pointers-greedy.onrender.com/docs  
-
----
-
-## 🧪 Example (Boats to Save People)
-
-people = [3,2,2,1]  
-limit = 3  
-print(num_rescue_boats(people, limit))  
-# Output: 3  
-
-- Sort array, use two pointers (lightest + heaviest)  
-- Greedy: pair heaviest with lightest to minimize boats  
-- Optimal O(n log n) solution using sorting + pointers  
 
 ---
 
