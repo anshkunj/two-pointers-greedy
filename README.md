@@ -73,10 +73,8 @@ ReDoc: http://127.0.0.1:8000/redoc
 
 ## 🌐 Live API
 
-Base URL:  
-https://two-pointers-greedy.onrender.com  
-Docs:  
-https://two-pointers-greedy.onrender.com/docs  
+Base URL: https://two-pointers-greedy.onrender.com  
+Docs: https://two-pointers-greedy.onrender.com/docs  
 
 ---
 
