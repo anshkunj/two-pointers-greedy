@@ -78,6 +78,128 @@ Docs: https://two-pointers-greedy.onrender.com/docs
 
 ---
 
+## 🔗 Endpoints – Two Pointers & Greedy Patterns
+
+This section documents conceptual API-style endpoints mapped to the functions in logic.py.
+Each endpoint shows example input and expected output.
+
+### 1️⃣ Container With Most Water
+Endpoint: /two-pointers/max-area
+
+Input:
+height = [1,8,6,2,5,4,8,3,7]
+
+Output:
+maxArea = 49
+
+### 2️⃣ 3Sum
+Endpoint: /two-pointers/three-sum
+
+Input:
+nums = [-1,0,1,2,-1,-4]
+
+Output:
+triplets = [[-1,-1,2],[-1,0,1]]
+
+### 3️⃣ 3Sum Closest
+Endpoint: /two-pointers/three-sum-closest
+
+Input:
+nums = [-1,2,1,-4]
+target = 1
+
+Output:
+closestSum = 2
+
+### 4️⃣ Two Sum II - Input array sorted
+Endpoint: /two-pointers/two-sum-sorted
+
+Input:
+numbers = [2,7,11,15]
+target = 9
+
+Output:
+indices = [1,2]
+
+### 5️⃣ Remove Duplicates from Sorted Array
+Endpoint: /two-pointers/remove-duplicates
+
+Input:
+nums = [0,0,1,1,1,2,2,3,3,4]
+
+Output:
+length = 5
+nums (first 5 elements) = [0,1,2,3,4]
+
+### 6️⃣ Squares of a Sorted Array
+Endpoint: /two-pointers/sorted-squares
+
+Input:
+nums = [-4,-1,0,3,10]
+
+Output:
+squares = [0,1,9,16,100]
+
+### 7️⃣ Merge Sorted Array
+Endpoint: /two-pointers/merge-sorted
+
+Input:
+nums1 = [1,2,3,0,0,0], m=3
+nums2 = [2,5,6], n=3
+
+Output:
+nums1 after merge = [1,2,2,3,5,6]
+
+### 8️⃣ Intersection of Two Arrays II
+Endpoint: /two-pointers/intersect
+
+Input:
+nums1 = [1,2,2,1]
+nums2 = [2,2]
+
+Output:
+intersection = [2,2]
+
+### 9️⃣ Remove Element
+Endpoint: /two-pointers/remove-element
+
+Input:
+nums = [3,2,2,3]
+val = 3
+
+Output:
+length = 2
+nums (first 2 elements) = [2,2]
+
+### 1️⃣0️⃣ Valid Palindrome
+Endpoint: /two-pointers/valid-palindrome
+
+Input:
+s = "racecar"
+
+Output:
+isValid = true
+
+### 1️⃣1️⃣ Longest Mountain in Array
+Endpoint: /two-pointers/longest-mountain
+
+Input:
+arr = [2,1,4,7,3,2,5]
+
+Output:
+length = 5
+
+### 1️⃣2️⃣ Candy (Greedy)
+Endpoint: /greedy/candy
+
+Input:
+ratings = [1,0,2]
+
+Output:
+totalCandies = 5
+
+---
+
 ## 🚧 Edge Cases Handled
 - Empty arrays / lists  
 - Single element arrays  
