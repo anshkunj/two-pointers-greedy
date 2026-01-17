@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/anshkunj/two-pointers-greedy/blob/01a4094ad36548c57b3a123feca9e086a4799a5b/1768558530388.jpg" alt="Two Pointers & Greedy Patterns" width="1200">
+  <img src="https://github.com/anshkunj/two-pointers-greedy/blob/1fea7f35098bf55d72b6a9fcb6305d6cdaa92335/file_000000002b1c71fa99af67ad8fc90e33.png" alt="Two Pointers & Greedy Patterns" width="1200">
 </p>
 
 <h1 align="center">Two Pointers & Greedy Patterns</h1>
