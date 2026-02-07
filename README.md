@@ -27,6 +27,7 @@ two-pointers-greedy/
 ├── logic.py         # Core algorithm implementations  
 ├── models.py        # Pydantic request models  
 ├── requirements.txt  
+├── render.yaml  
 ├── README.md  
 └── LICENSE        # Licence file (MIT)  
 ```
