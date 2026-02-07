@@ -222,7 +222,7 @@ MIT Licence
 
 ## 🤝 Contributing
 Contributors are welcome!  
-• Add new sliding window problems  
+• Add new ```two-pointers``` problems  
 • Improve explanations  
 • Optimise exists code  
 
