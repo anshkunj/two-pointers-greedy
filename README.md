@@ -28,7 +28,7 @@ two-pointers-greedy/
 ├── models.py        # Pydantic request models  
 ├── requirements.txt  
 ├── render.yaml  
-├── README.md  
+├── README.md      # Project Overview  
 └── LICENSE        # Licence file (MIT)  
 ```
 ---
