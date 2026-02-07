@@ -21,7 +21,7 @@ A curated collection of **two pointers and greedy algorithm problems** focusing 
 ---
 
 ## 📂 Repo Structure
-
+```
 two-pointers-greedy/  
 ├── main.py          # FastAPI app & routes
 ├── logic.py         # Core algorithm implementations  
@@ -29,7 +29,7 @@ two-pointers-greedy/
 ├── requirements.txt  
 ├── README.md  
 └── LICENSE  
-
+```
 ---
 
 ## 🏗️ How This Repo Works
