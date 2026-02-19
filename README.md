@@ -235,7 +235,7 @@ Contributors are welcome!
 ### 📫 Let’s connect
 - **GitHub:** https://github.com/anshkunj
 - **LinkedIn:** https://linkedin.com/in/anshkunj
-- Portfolio: https://anshkunj.github.io/Portfolio
+- **Portfolio:** https://anshkunj.github.io/Portfolio
 - **LeetCode:** https://leetcode.com/u/anshkunj
 - **Devpost:** https://devpost.com/anshkunj
 - **HackerRank:** https://www.hackerrank.com/profile/anshkunj
