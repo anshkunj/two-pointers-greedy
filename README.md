@@ -232,17 +232,15 @@ Contributors are welcome!
 
 ## 👤 Author
 **anshkunj**  
-### 📫 Let’s connect
-- **GitHub:** https://github.com/anshkunj
-- **LinkedIn:** https://linkedin.com/in/anshkunj
-- **Portfolio:** https://anshkunj.github.io/Portfolio
-- **LeetCode:** https://leetcode.com/u/anshkunj
-- **Devpost:** https://devpost.com/anshkunj
-- **HackerRank:** https://www.hackerrank.com/profile/anshkunj
-- **AtCoder:** https://atcoder.jp/users/anshkunj
-- **Codeforces:** https://codeforces.com/profile/anshkunj
-- **Fiverr:** https://www.fiverr.com/anshkunj
-- **Freelancer:** https://www.freelancer.com/u/anshkunj
+
+### 📫 Connect with me
+[![GitHub](https://img.shields.io/badge/GitHub-anshkunj-black?style=flat&logo=github)](https://github.com/anshkunj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anshkunj-blue?style=flat&logo=linkedin)](https://linkedin.com/in/anshkunj)
+[![Discord](https://img.shields.io/badge/Discord-anshkunj-7289DA?style=flat&logo=discord)](https://discord.com/users/1473000023431057461)
+
+### 💼 Freelance Profiles
+[![Fiverr](https://img.shields.io/badge/Fiverr-anshkunj-green?style=flat&logo=fiverr)](https://www.fiverr.com/anshkunj)
+[![Freelancer](https://img.shields.io/badge/Freelancer-anshkunj-blue?style=flat&logo=freelancer)](https://www.freelancer.com/u/anshkunj)
 
 ---
 
